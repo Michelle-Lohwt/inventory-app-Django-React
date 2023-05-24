@@ -1,0 +1,3 @@
+venv
+inventory_api/.env
+inventory_api/inventory_api/__pycache__
